@@ -31,6 +31,9 @@ O diagrama EER foi projetado para garantir **integridade, escalabilidade e facil
 
 ---
 
+![HandsOn-Oficina](https://github.com/user-attachments/assets/546ab886-bd89-4211-832a-00787932e526)
+
+
 ## 📊 **Vantagens da Modelagem**  
 
 ✅ **Eliminação de Redundância** – A modelagem evita dados duplicados, garantindo eficiência no armazenamento.  
